@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 
-
----
-=======
->>>>>>> 4652191543e6bf531f07df058752e494f67e42d2
 
 <h1 align="center">
   Codenation: AceleraDev - Data Science
