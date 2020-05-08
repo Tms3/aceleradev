@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 
 
 ---
+=======
+>>>>>>> 4652191543e6bf531f07df058752e494f67e42d2
 
 <h1 align="center">
   Codenation: AceleraDev - Data Science
@@ -9,23 +12,6 @@
 <h2 align="center">
   Desafios para formação de Data Science
 </h2>
-
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/JedersonLuz/Codenation_AceleraDev_DataScience">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/JedersonLuz/Codenation_AceleraDev_DataScience">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JedersonLuz/Codenation_AceleraDev_DataScience">
-  <img alt="License" src="https://img.shields.io/github/license/JedersonLuz/Codenation_AceleraDev_DataScience">
-</p>
-
-<p align="center">
-  <a href="#programa">Programa</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#tecnologias">Tecnologias</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#como-contribuir">Como contribuir</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#licença">Licença</a>
-</p>
 
 # Programa
 
