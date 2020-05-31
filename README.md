@@ -10,7 +10,7 @@
 
 # Programa
 
-O [AceleraDev](https://www.codenation.dev/aceleradev/ds-online-1/) é um programa de capacitação gratuito para profissionais de tecnologia. Durante 10 semanas, devs e cientistas de dados têm acesso a desafios, conteúdos e à Comunidade [Codenation](https://www.codenation.dev/) para adquirirem e praticarem as habilidades técnicas mais utilizadas por empresas de tecnologia de todo o mundo.
+O [AceleraDev](https://www.codenation.dev/aceleradev/ds-online-1/) é um programa de capacitação gratuito para profissionais de tecnologia. Durante 10 semanas,com 12 desafios, devs e cientistas de dados têm acesso a desafios, conteúdos e à Comunidade [Codenation](https://www.codenation.dev/) para adquirirem e praticarem as habilidades técnicas mais utilizadas por empresas de tecnologia de todo o mundo.
 
 # Tecnologias
 
